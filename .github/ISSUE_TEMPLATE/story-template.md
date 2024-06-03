@@ -1,12 +1,3 @@
----
-name: story template
-about: Template to use when write a new ZenHub story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
